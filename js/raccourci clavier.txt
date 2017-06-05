@@ -1,0 +1,9 @@
+Cheat sheet EMMET (raccourci EMMET)
+http://docs.emmet.io/cheat-sheet/
+
+
+ctrl + flèche directionnelle gauche/droite : se déplacer de mot en mot (du début à la fin du mot)
+
+ctrl + alt + flèche directionnelle haut/bas : duplique le curseur vers le haut ou vers le bas.
+
+ctrl + clic : duplique le curseur à l'endroit cliqué
